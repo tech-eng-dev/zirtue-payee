@@ -1,4 +1,4 @@
-# zirtue-payee
+# zirtue-payee(React Native)
 
 ## Getting Started
 
